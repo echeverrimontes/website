@@ -76,5 +76,11 @@ contributions:
       url: "http://github.com/dipamsen"
     url: "https://dipamsen.github.io/double-pendulum-p5-matter/index.html"
     source: "https://github.com/dipamsen/double-pendulum-p5-matter"
----
+  - title: "doublePendulum_OOP_02"
+    author: echeverrimontes
+      name: doublePendulum_OOP_02
+      url: "https://github.com/echeverrimontes/doublePendulum_OOP_02#doublependulum_oop_02"
+    url: "https://github.com/echeverrimontes/doublePendulum_OOP_02/blob/main/doublePendulum_OOP_02.pde"
+    source: "https://github.com/echeverrimontes/doublePendulum_OOP_02#doublependulum_oop_02"
 In this coding challenge, I create a double pendulum simulation in Processing.
+
